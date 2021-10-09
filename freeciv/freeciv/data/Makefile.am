@@ -44,6 +44,7 @@ SRV_RE_FILES = \
 	mp2-brava.serv   \
         mp2-caravel.serv \
         mp2b-occ.serv    \
+        mp2b-short.serv  \
 	mp2b-valhalla.serv
 
 if SERVER
@@ -89,6 +90,7 @@ EXTRA_DIST = \
 	mp2-brava.serv   \
         mp2-caravel.serv \
         mp2b-occ.serv    \
+        mp2b-short.serv  \
         mp2b-valhalla.serv
 
 if CLIENT
