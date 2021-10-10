@@ -100,7 +100,7 @@ else
 CLIENTDATADIRS = 
 endif
 
-SRV_RE_DATADIRS = default classic civ1 civ2 sandbox multiplayer alien civ2civ3 webperimental mpplus mp2 ag mp2-brava mp2-caravel mp2b-valhalla mp2b-occ nation
+SRV_RE_DATADIRS = default classic civ1 civ2 sandbox multiplayer alien civ2civ3 webperimental mpplus mp2 ag mp2-brava mp2-caravel mp2b-valhalla mp2b-occ mp2b-short nation
 if SERVER
 SERVERDATADIRS = $(SRV_RE_DATADIRS) scenarios
 else
